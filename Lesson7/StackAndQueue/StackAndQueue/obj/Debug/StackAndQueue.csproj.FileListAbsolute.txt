@@ -1,0 +1,6 @@
+c:\users\vitalyki\documents\visual studio 2012\Projects\StackAndQueue\StackAndQueue\bin\Debug\StackAndQueue.exe.config
+c:\users\vitalyki\documents\visual studio 2012\Projects\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.csprojResolveAssemblyReference.cache
+c:\users\vitalyki\documents\visual studio 2012\Projects\StackAndQueue\StackAndQueue\bin\Debug\StackAndQueue.exe
+c:\users\vitalyki\documents\visual studio 2012\Projects\StackAndQueue\StackAndQueue\bin\Debug\StackAndQueue.pdb
+c:\users\vitalyki\documents\visual studio 2012\Projects\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.exe
+c:\users\vitalyki\documents\visual studio 2012\Projects\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.pdb
